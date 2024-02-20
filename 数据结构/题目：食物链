@@ -1,3 +1,4 @@
+题目：https://www.acwing.com/problem/content/242/
 #include <iostream>
 using namespace std;
 const int N = 50010;
